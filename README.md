@@ -3,7 +3,7 @@ Analysis done using PostgreSQL, PgAdmin 4
 
 
 ## Overview
-In this analysis we are looking at sales data for a superstore in order to determine insights/trends that may provide further profitability
+In this analysis we are querying employee data for various trends, such as finding employees who are nearing retirement age, or which department costs the most to salary.
 
 
 ## Results
